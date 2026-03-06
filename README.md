@@ -1,6 +1,7 @@
 # 💣 Number Bomb Game
 
 A fun multiplayer party game built with React + TypeScript + Vite.
+Demo: https://ceng9488-create.github.io/number-bomb-game/
 
 ## How to Play
 
